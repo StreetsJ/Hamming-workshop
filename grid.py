@@ -1,5 +1,3 @@
-from random import randint
-from math import sqrt
 
 
 class Grid:
