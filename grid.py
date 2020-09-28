@@ -2,6 +2,7 @@
 
 class Grid:
     def __init__(self):
+        # 4x4 block of data of a (15, 11) Hamming Code as it is named in the industry
         self.size = 16
         self.bits = None
 
